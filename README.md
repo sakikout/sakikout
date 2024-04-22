@@ -8,8 +8,8 @@
 
 ### Repositórios principais:
 
-<a href="https://github.com/sakikout/Portifolio-Angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Portifolio-Angular&theme=shadow_red"/>
+<a href="https://github.com/sakikout/Portfolio-Angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Portfolio-Angular&theme=shadow_red"/>
 </a>
 <a href="https://github.com/sakikout/Polls-to-Graph-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Polls-to-Graph-Python&theme=shadow_red"/>
