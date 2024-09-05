@@ -1,3 +1,5 @@
+### About me
+My name is Beatriz, also known as Bela, and I'm an Information Systems student at the Federal University of Ouro Preto (UFOP).
 
 <div>
   <a href="https://github.com/sakikout">
@@ -5,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakikout&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
 
-### Repositórios principais
+### Main repositories
 
 <a href="https://github.com/sakikout/Portfolio-Angular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Portfolio-Angular&theme=shadow_red"/>
