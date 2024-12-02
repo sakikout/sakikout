@@ -12,6 +12,6 @@ My name is Beatriz, also known as Bela, and I'm an Information Systems student a
 <a href="https://github.com/sakikout/Portfolio-Angular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Portfolio-Angular&theme=shadow_red"/>
 </a>
-<a href="https://github.com/sakikout/Polls-to-Graph-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=Polls-to-Graph&theme=shadow_red"/>
+<a href="https://github.com/sakikout/BookClub"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakikout&repo=BookClub&theme=shadow_red"/>
 </a> 
