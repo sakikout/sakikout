@@ -1,6 +1,5 @@
 ## About me
 My name is Beatriz, also known as Bela, and I'm an Information Systems student at the Federal University of Ouro Preto (UFOP). For professional contact, please email me at: bedalfior@gmail.com
-I don't bite!
 
 <div>
   <a href="https://github.com/sakikout">
