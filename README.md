@@ -1,6 +1,6 @@
 # Introduction
 ## About me
-📚 My name is Beatriz, also known as Bela. I’m an Information Systems student seeking to establish myself as a Senior Developer, but I am also looking to specialize in Machine Learning through postgraduate studies.
+📚 I’m an Information Systems student seeking to establish myself as a Senior Developer, but I am also looking to specialize in Machine Learning through postgraduate studies.
 
 🖥️ My main interests are: full-stack programming (both frontend and backend), data science with a focus on AI, and algorithms and optimization (particularly metaheuristics).
 
