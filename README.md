@@ -1,4 +1,3 @@
-# Introduction
 ## About me
 📚 I'm a Software Engineer looking to specialize in Machine Learning through postgraduate studies.
 
