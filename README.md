@@ -1,10 +1,10 @@
 # Introduction
 ## About me
-📚 I’m an Information Systems student seeking to establish myself as a Senior Developer, but I am also looking to specialize in Machine Learning through postgraduate studies.
+📚 I'm a Software Engineer looking to specialize in Machine Learning through postgraduate studies.
 
 🖥️ My main interests are: full-stack programming (both frontend and backend), data science with a focus on AI, and algorithms and optimization (particularly metaheuristics).
 
-👾 I’m naturally curious – a lifelong nerd, passionate about learning. From games, art, and storytelling to geography, philosophy, literature, and music, I’m driven by a need to understand. When I question something, I commit to it. And when I commit, I find answers.
+👾 I'm a lifelong nerd, passionate about learning. From games, art, and storytelling to geography, philosophy, literature, and music, I’m driven by a need to understand.
     
 <table>
    <tbody>
